@@ -5,8 +5,9 @@ An analysis of the relationship between weather and crime in Iowa City from Janu
 
 ## Folder Structure
 - data/: contains weather and crime data files
-- code/: contains notebookd and scripts used for data processing and analysis
-
+- code/: contains notebooks and scripts used for data processing and analysis
+- project/: contains the written proposal and final report
+  
 ## Data Dictionary
 
 | Column Name        | Description                                                                 | Data Type   |
